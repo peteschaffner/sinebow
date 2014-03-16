@@ -1,0 +1,11 @@
+{
+  "name": "sinebow",
+  "repo": "peteschaffner/sinebow",
+  "description": "A smoother, more gradual rainbow color generator.",
+  "version": "0.1.0",
+  "keywords": ["color", "rainbow", "spectrum", "hsv"],
+  "dependencies": {
+    "timoxley/color-convert": "*"
+  },
+  "scripts": ["index.js"]
+}
